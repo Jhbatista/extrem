@@ -27,3 +27,7 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3226c8fa82baacea8a7e0b12a48c0303.webp"group-title="TV SAO RAIMUNDO" PUAUI
 https://stmv1.voxtvhd.com.br/9030/9030/chunklist_w117140899.m3u8
+ #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9is4SMlhPkEsrt2WiicaNRESPQyuMgSnqiQ&usqp=CAU"group-title="TV EPSON" UFC
+http://media.video-origin.espn.com/espnvideo/2021/1023/Hu_211023_BR_MMA_UFC_borrachinha_mudar_de_categoria_pressconference/Hu_211023_BR_MMA_UFC_borrachinha_mudar_de_categoria_pressconference.mp4
