@@ -17,3 +17,8 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318-b/secure/HQs/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5d386500ebc7f1be9d49188de6f44fa5.webp"group-title="SBT"EMISORA DE TV INTERIOR
 https://5a1c76baf08c0.streamlock.net/sbtinterior/SLmOiqg505FQZnhkfn01x94qWLHzQzfQ/chunklist_w1872380530.m3u8
+
+ #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8ce8f1a9e2406d2acde94e2ac5d0f671.webp"group-title="SBT"Cidade verde
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1040896549.m3u8
