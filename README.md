@@ -12,3 +12,8 @@ https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w2125336386.m3u8
 
 #EXTINF:-1 tvg-logo=" https://www.cxtv.com.br/img/Tvs/Logo/webp-l/274cc93fe150f046c1d083edaac1a60f.webp"group-title="TV" Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318-b/secure/HQs/chunklist.m3u8
+
+ #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5d386500ebc7f1be9d49188de6f44fa5.webp"group-title="SBT"EMISORA DE TV INTERIOR
+https://5a1c76baf08c0.streamlock.net/sbtinterior/SLmOiqg505FQZnhkfn01x94qWLHzQzfQ/chunklist_w1872380530.m3u8
