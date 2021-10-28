@@ -22,3 +22,8 @@ https://5a1c76baf08c0.streamlock.net/sbtinterior/SLmOiqg505FQZnhkfn01x94qWLHzQzf
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8ce8f1a9e2406d2acde94e2ac5d0f671.webp"group-title="SBT"Cidade verde
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1040896549.m3u8
+
+ #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3226c8fa82baacea8a7e0b12a48c0303.webp"group-title="TV SAO RAIMUNDO" PUAUI
+https://stmv1.voxtvhd.com.br/9030/9030/chunklist_w117140899.m3u8
