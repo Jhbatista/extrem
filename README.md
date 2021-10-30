@@ -57,3 +57,7 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w41108214.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/afc37cf19c9d2acd765a4d6d041f74ce.webp"group-title="TV EVANGELIZADORA" SECULO 21
 https://5f593df7851db.streamlock.net/evangelizar/tv/chunklist_w557372450.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7aa4d69d868651e45190d52845387434.webp"group-title="TV"APARICIDA
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
