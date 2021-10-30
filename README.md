@@ -61,3 +61,7 @@ https://5f593df7851db.streamlock.net/evangelizar/tv/chunklist_w557372450.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7aa4d69d868651e45190d52845387434.webp"group-title="TV"APARICIDA
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dcb3ff84b8f31ddc39ef213b42402f75.webp"group-title="TV Canal" 29 antigos
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1894772009.m3u8
