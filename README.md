@@ -1,4 +1,4 @@
-#EXTMEU
+A#EXTMEU
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3b32d867946790567052cc9e2a4ce617.webp"grupo-title="",
 https://stmv5.samcast.com.br/everton7487/everton7487/chunklist_w561956150.m3u8
@@ -65,3 +65,7 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dcb3ff84b8f31ddc39ef213b42402f75.webp"group-title="TV Canal" 29 antigos
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1894772009.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xKC4ko431SSrNzu2GrwcJmLujMg.jpg"group-title="Vision" Ascensão dos cisne negro
+https://video.wixstatic.com/video/de03b6_8852750ef30949daadf8d6d5fd169c87/720p/mp4/file.mp4
