@@ -2,9 +2,12 @@
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3b32d867946790567052cc9e2a4ce617.webp"grupo-title="",
 https://stmv5.samcast.com.br/everton7487/everton7487/chunklist_w561956150.m3u8
+
  #EXTM3U
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0bf29296ede8db8b9c502fba9c05cb7f.webp"group-title="Cine" tv
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w2125336386.m3u8
+
  #EXTM3U
 
 #EXTINF:-1 tvg-logo=" https://www.cxtv.com.br/img/Tvs/Logo/webp-l/274cc93fe150f046c1d083edaac1a60f.webp"group-title="TV" Kids
@@ -28,7 +31,8 @@ https://stmv1.voxtvhd.com.br/9030/9030/chunklist_w117140899.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9is4SMlhPkEsrt2WiicaNRESPQyuMgSnqiQ&usqp=CAU"group-title="TV EPSON" UFC
 http://media.video-origin.espn.com/espnvideo/2021/1023/Hu_211023_BR_MMA_UFC_borrachinha_mudar_de_categoria_pressconference/Hu_211023_BR_MMA_UFC_borrachinha_mudar_de_categoria_pressconference.mp4
- #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0d8ea456a45f1f4837ffb24db7646f8f.webp"group-title="TELECINE" CANIAS POPULAS
-https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w2038161373.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/44fae4d3394877ed0880e78b4563450d.webp"group-title="TV manchete" TV infantil
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w737722329.m3u8
