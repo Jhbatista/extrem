@@ -36,3 +36,7 @@ http://media.video-origin.espn.com/espnvideo/2021/1023/Hu_211023_BR_MMA_UFC_borr
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/44fae4d3394877ed0880e78b4563450d.webp"group-title="TV manchete" TV infantil
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w737722329.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/468a51d6031a373ec56983564ebf9ff8.webp"group-title="TV cine" filmes
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w943531351.m3u8
