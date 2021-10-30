@@ -40,3 +40,7 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w737722329.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/468a51d6031a373ec56983564ebf9ff8.webp"group-title="TV cine" filmes
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w943531351.m3u8
+ #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://m.topflix.vc/images/poster/330490/463564623.jpg"group-title="LEAP" A BAILARINA
+https://cdn10.ntcdn.stream/prop/httpdelivery/filmes/p1/479101145a-bailarina.mp4
