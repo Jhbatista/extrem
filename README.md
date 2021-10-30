@@ -53,3 +53,7 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/60f5fabf07
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e7091994dd0a7abb969c3a058a21f710.webp"group-title="ALL ESPORT" ESPORT
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w41108214.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/afc37cf19c9d2acd765a4d6d041f74ce.webp"group-title="TV EVANGELIZADORA" SECULO 21
+https://5f593df7851db.streamlock.net/evangelizar/tv/chunklist_w557372450.m3u8
