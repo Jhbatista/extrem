@@ -74,4 +74,7 @@ https://video.wixstatic.com/video/de03b6_8852750ef30949daadf8d6d5fd169c87/720p/m
 #EXTINF:-1 tvg-logo=" https://www.cxtv.com.br/img/Tvs/Logo/webp-l/274cc93fe150f046c1d083edaac1a60f.webp"group-title="TV" Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318-b/secure/HQs/chunklist.m3u8
 
+#EXTM3U
 
+#EXTINF:-1tvg-logo="https://superfilmesonline.pro/wp-content/uploads/2021/10/apex-214x300.jpg"group-title="
+https://h6r4gr.cfeucdn.com/silverlight/secip/148169/HtRV4qbpWrMHGfD1asi45g/MTMxLjE2MS4yMS42Mg==/1635810308/hls-vod-s08/flv/api/files/videos/2021/10/31/1635690851740tx.mp4.m3u8
