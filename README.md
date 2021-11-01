@@ -76,13 +76,13 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318-b/secure/HQs/chunklist.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w185/nH0EycssY8aFJxElTsGSRirP9qr.jpg"group-title="CINE QUERO FILMES" PECINHA CONTA ANIMAL
-https://cdn.lordplayer.club/ta2zwyWgK5uEuQKQ31GpJgmsuL2dznQJ7DV_LHDr24OpMiRZt7PPM0OWp4wr9azm9HzMMg4no_ovtz1m0xZDew/CI0FCx7ZbQ5VtBBryljBqm3yRZnOVVnbzh_faJQTXVw/360.m3u8
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4cc2faa53cb8b284468eaeda099eec55.webp"group-title="TV REDE BRASIL" NOTICIAS
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1678229107.m3u8
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/featuredImage.jpg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&h=96&w=150 "group-title="tv pluto" seres
 https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5f120f41b7d403000783a6d6/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=b0005bb9-8390-41aa-842e-5161fca167b7&deviceVersion=95.0.4638&appVersion=5.105.0-b62a54a1ce532c9291b0579779f0b19221e6d9fc&deviceType=web&deviceMake=chrome&sid=7f19ecb8-3b57-11ec-a577-0242ac110003&advertisingId=&deviceLat=-8.2758&deviceLon=-42.3401&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjgwZWIzOTdhLTkyN2ItNGJjMy1iMjM2LTZmYTJmNGYzNTg4ZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3ZjE5ZWNiOC0zYjU3LTExZWMtYTU3Ny0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjEzMS4xNjEuMjEuNjIiLCJjaXR5IjoiU2FvIEpvYW8gZG8gUGlhdWkiLCJwb3N0YWxDb2RlIjoiNjQ3NjAiLCJjb3VudHJ5IjoiQlIiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IkJSIiwiZGV2aWNlTGF0IjotOC4yNzU4LCJkZXZpY2VMb24iOi00Mi4zNDAxLCJwcmVmZXJyZWRMYW5ndWFnZSI6InB0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiI5NS4wLjQ2MzgiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjUuMTA1LjAtYjYyYTU0YTFjZTUzMmM5MjkxYjA1Nzk3NzlmMGIxOTIyMWU2ZDlmYyIsImNsaWVudElEIjoiYjAwMDViYjktODM5MC00MWFhLTg0MmUtNTE2MWZjYTE2N2I3IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvRm9ydGFsZXphIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTYzNTgyOTU1MiwianRpIjoiMzQzNzkyNmYtNDViYi00ZDE2LTgwMTQtYzI5NjgwMjk3ZTA5IiwiaWF0IjoxNjM1ODAwNzUyLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6QlI6WWpBd01EVmlZamt0T0RNNU1DMDBNV0ZoTFRnME1tVXROVEUyTVdaallURTJOMkkzIn0.v6cGzk1zoPjFDvAwH4M6YR66PutqI6NU9GnGGKYBm4k
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://static.futemax.gratis/wp-content/uploads/c911c1b72116851123806fb1a57d58b5.jpg"group-title="SPORT TV" PREMIE
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
