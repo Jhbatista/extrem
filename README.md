@@ -73,3 +73,7 @@ https://video.wixstatic.com/video/de03b6_8852750ef30949daadf8d6d5fd169c87/720p/m
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Pm6c8dnSQlLPjYb5YeiNiHDDNpjHYDD_1TmdFypViVBOXE7Ec4NkuHrtLmylZ1tCzbE=s150-rw"group-title="REDE DE CANAIS" FILMES
 https://apkdownload.com/Rede-Canais-IPTV/com.redecanais.redecanaispro.html
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Pm6c8dnSQlLPjYb5YeiNiHDDNpjHYDD_1TmdFypViVBOXE7Ec4NkuHrtLmylZ1tCzbE=s150-rw"group-title="REDE DE CANAIS" FILMES
+http://vkodi.net/repo
