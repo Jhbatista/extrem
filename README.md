@@ -82,3 +82,7 @@ https://h6r4gr.cfeucdn.com/silverlight/secip/148169/HtRV4qbpWrMHGfD1asi45g/MTMxL
 
 #EXTINF:-1tvg-logo="https://superfilmesonline.pro/wp-content/uploads/2021/10/apex-214x300.jpg"group-title="
 https://h6r4gr.cfeucdn.com/silverlight/secip/148169/HtRV4qbpWrMHGfD1asi45g/MTMxLjE2MS4yMS42Mg==/1635810308/hls-vod-s08/flv/api/files/videos/2021/10/31/1635690851740tx.mp4.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/nH0EycssY8aFJxElTsGSRirP9qr.jpg"group-title="CINE QUERO FILMES" PECINHA CONTA ANIMAL
+https://cdn.lordplayer.club/ta2zwyWgK5uEuQKQ31GpJgmsuL2dznQJ7DV_LHDr24OpMiRZt7PPM0OWp4wr9azm9HzMMg4no_ovtz1m0xZDew/CI0FCx7ZbQ5VtBBryljBqm3yRZnOVVnbzh_faJQTXVw/360.m3u8
