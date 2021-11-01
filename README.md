@@ -68,6 +68,7 @@ https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w18947
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xKC4ko431SSrNzu2GrwcJmLujMg.jpg"group-title="Vision" Ascensão dos cisne negro
 https://video.wixstatic.com/video/de03b6_8852750ef30949daadf8d6d5fd169c87/720p/mp4/file.mp4
 
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo=" https://www.cxtv.com.br/img/Tvs/Logo/webp-l/274cc93fe150f046c1d083edaac1a60f.webp"group-title="TV" Kids
