@@ -10,11 +10,6 @@ https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w2125336386.m3u8
 
  #EXTM3U
 
-#EXTINF:-1 tvg-logo=" https://www.cxtv.com.br/img/Tvs/Logo/webp-l/274cc93fe150f046c1d083edaac1a60f.webp"group-title="TV" Kids
-https://moiptvhls-i.akamaihd.net/hls/live/652318-b/secure/HQs/chunklist.m3u8
-
- #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5d386500ebc7f1be9d49188de6f44fa5.webp"group-title="SBT"EMISORA DE TV INTERIOR
 https://5a1c76baf08c0.streamlock.net/sbtinterior/SLmOiqg505FQZnhkfn01x94qWLHzQzfQ/chunklist_w1872380530.m3u8
 
@@ -28,11 +23,6 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3226c8fa82baacea8a7e0b12a48c0303.webp"group-title="TV SAO RAIMUNDO" PIAUI
 https://stmv1.voxtvhd.com.br/9030/9030/chunklist_w117140899.m3u8
  
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9is4SMlhPkEsrt2WiicaNRESPQyuMgSnqiQ&usqp=CAU"group-title="TV EPSON" UFC
-http://media.video-origin.espn.com/espnvideo/2021/1023/Hu_211023_BR_MMA_UFC_borrachinha_mudar_de_categoria_pressconference/Hu_211023_BR_MMA_UFC_borrachinha_mudar_de_categoria_pressconference.mp4
-
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/44fae4d3394877ed0880e78b4563450d.webp"group-title="TV manchete" TV infantil
@@ -68,12 +58,6 @@ https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w18947
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xKC4ko431SSrNzu2GrwcJmLujMg.jpg"group-title="Vision" Ascensão dos cisne negro
 https://video.wixstatic.com/video/de03b6_8852750ef30949daadf8d6d5fd169c87/720p/mp4/file.mp4
 
-
-#EXTM3U
-
-#EXTINF:-1 tvg-logo=" https://www.cxtv.com.br/img/Tvs/Logo/webp-l/274cc93fe150f046c1d083edaac1a60f.webp"group-title="TV" Kids
-https://moiptvhls-i.akamaihd.net/hls/live/652318-b/secure/HQs/chunklist.m3u8
-
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4cc2faa53cb8b284468eaeda099eec55.webp"group-title="TV REDE BRASIL" NOTICIAS
@@ -83,3 +67,7 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1678229
 
 #EXTINF:-1 tvg-logo="https://www.tvaberta.tv.br/_img/logo-tv-aberta.gif"group-title="TV ABERTA" SAO PAILO
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/chunklist_w1451369611.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8WMTK1YKO8M/YTDut9kuv0I/AAAAAAAAFQI/tPhnPo5AysQHiA5kFzTdvxD8wBfvgnLSQCLcBGAsYHQ/s200/TV%2BBAND.webp"group-title=" TV BANDE" NOTICIA
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2041741271.m3u8
