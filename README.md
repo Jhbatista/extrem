@@ -86,3 +86,7 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5f120f41b7
 
 #EXTINF:-1 tvg-logo="https://static.futemax.gratis/wp-content/uploads/c911c1b72116851123806fb1a57d58b5.jpg"group-title="SPORT TV" PREMIE
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/44fae4d3394877ed0880e78b4563450d.webpb"group-title="TV manchete" TV infantil
+https://playembeds.com/m3/aGg4Z0VvZW83UmRBU3ByTThtYlhINGVEQ1dyS0FSeHE0TDVTS0JqekxqVGJlVFVVVUZ5ZVRrQTBNMzQwdnFpMW0yMDN1TmoxSitjeGhHQ1hBckVHR3hEaXJuYVVKdEtlYU5iM1BXd3ZLZk1ML2RLL2xwZ3U2RVRCbjJXaVpsZVc4UmowSSs2dmRYSlFudUFXZDJ6QTJxRWIvL2laNzJFMm1yaWduZWVySm0vZ3lqaEh4QzUzSjBMQzdjc01vT1Ar
