@@ -75,3 +75,7 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2041741271.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oxdCoblnnJg/YTDkXEX3igI/AAAAAAAAFPk/XqnzIaBL9q08kr8U1vVqxLRqWqggiEWhgCPcBGAYYCw/s200/RECORD%2BTV.webp"group-title=" TV rede recor"  são paulo
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--JMxVkeukr4/YTTqN-S05iI/AAAAAAAAFY8/1kP57M8lrhsozQ40lucklTmfjLPeJbCvQCLcBGAsYHQ/s200/TV%2BNOVA%2BPLAY.webp"group-title=" NOVA PLAY TV" FILMES E SERIES
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1739392633.m3u8
