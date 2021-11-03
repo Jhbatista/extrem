@@ -79,3 +79,34 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&reb
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--JMxVkeukr4/YTTqN-S05iI/AAAAAAAAFY8/1kP57M8lrhsozQ40lucklTmfjLPeJbCvQCLcBGAsYHQ/s200/TV%2BNOVA%2BPLAY.webp"group-title=" NOVA PLAY TV" FILMES E SERIES
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1739392633.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.tvaberta.tv.br/_img/logo-tv-aberta.gif"group-title="TV ABERTA" SAO PAILO
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/chunklist_w1451369611.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--JMxVkeukr4/YTTqN-S05iI/AAAAAAAAFY8/1kP57M8lrhsozQ40lucklTmfjLPeJbCvQCLcBGAsYHQ/s200/TV%2BNOVA%2BPLAY.webp"group-title=" NOVA PLAY TV" FILMES E SERIES
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1739392633.m3u8
+
+https://bit.ly/3EBbNfQ
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo=" https://1.bp.blogspot.com/-JiR4ABc875Q/YTD7prSgoiI/AAAAAAAAFSU/bfEEnuhiArk5mv1_dUnnja0aqmHNxQBbACLcBGAsYHQ/s200/TELA%2BVIVA%2BTV.webp "group-title="TELA VIVA " TV
+https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w1508014130.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FmsNFIuq7rg/YTeYPQEDhOI/AAAAAAAAFdE/V-elpW38cB0_20fbai4DQLOnE4nzYXVIACLcBGAsYHQ/s200/WEB%2BTV%2B%25C3%2581GUA%2BBOA.webp"group-title="WEB TV " AGUA BOA
+https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/chunklist_w292458495.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo=" https://1.bp.blogspot.com/-qO7V5fgqGFY/YTD7QzFbj0I/AAAAAAAAFSI/i3qfOlT2P5sdyYOyrMlARFJXXUpXzNmjACLcBGAsYHQ/s200/REDE%2BCLONE%2BTV.webp"group-title=" TV " CICLONE
+https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1418908987.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="  https://1.bp.blogspot.com/-RS8CHfEdekU/YTD_EgAvvjI/AAAAAAAAFTQ/RwfgAUQLwnMQgUWEDhRisWC3qEAS_YcngCLcBGAsYHQ/s200/CLASSIQUE%2BTV.webp"group-title=" Classique tv" séries filmes
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
