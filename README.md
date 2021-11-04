@@ -114,3 +114,5 @@ https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xF1uc2pEf34X2G41wvZaF5H0V7C.jpg"group-title="MEGA FILMES " SOBRE VIVER O JOGO
 https://suasaudeemforma.online/wp-content/uploads/2021/10/Sobreviva-ao-Jogo-1.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/s9E9W77HS8zEQvsrpz5aEUTKnvD.jpg"group-title=" MEGA FILMES" DUNA Além do medo
+https://suasaudeemforma.online/wp-content/uploads/2021/10/Duna.mp4
