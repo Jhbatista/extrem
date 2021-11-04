@@ -140,3 +140,26 @@ https://suasaudeemforma.online/wp-content/uploads/2021/09/The.WitcherDub.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/6T0r3jBs0xbmzVnM9u7e3vUXMYk.jpg"group-title=" MEGA FILMES " A LENDA DOS 10 ANES
 https://suasaudeemforma.online/wp-content/uploads/2021/09/Shang-Chi-e-a-Lenda-dos-Dez-AneisCam.mp4
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/nH0EycssY8aFJxElTsGSRirP9qr.jpg"group-title="MEGA FILMES" PEspanha contra animal
+https://suasaudeemforma.online/wp-content/uploads/2021/10/Baixar-Contra-Animal.mp4
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/jXlGeLOg2RKHmV9CinVaIB4ijKU.jpg"group-title="Free Guy " assumindo o controle
+https://suasaudeemforma.online/wp-content/uploads/2021/09/Free-Guy.mp4
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/8L4Mep3KDUK4ztUgf2HlPvUVzZy.jpg"group-title=" Velozes e furiosos" 9
+https://suasaudeemforma.online/wp-content/uploads/2021/08/VelozesEFuriosos9.mp4
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/fBJducGBcmrcIOQdhm4BUBNDiMu.jpg"group-title=" MEGA FILMES " Beckett
+https://suasaudeemforma.online/wp-content/uploads/2021/08/Beckett-2021-WEB-DL-1080p-DUAL-5.1-convert-video-online.com_.mp4
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/iT9k4FyhjLcfMRH8Qzk3wR99pDC.jpg"group-title=" MEGA FILMES " O ULTIMO MECENARIO
+https://suasaudeemforma.online/wp-content/uploads/2021/07/OUltimoMercenario.mp4
