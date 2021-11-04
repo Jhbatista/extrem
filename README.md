@@ -116,3 +116,27 @@ https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
 https://suasaudeemforma.online/wp-content/uploads/2021/10/Sobreviva-ao-Jogo-1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/s9E9W77HS8zEQvsrpz5aEUTKnvD.jpg"group-title=" MEGA FILMES" DUNA Além do medo
 https://suasaudeemforma.online/wp-content/uploads/2021/10/Duna.mp4
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/uQWgSRXeYRWCvGIX9LDNBW6XBYD.jpg "group-title="MEGA FILMES " KATE
+https://suasaudeemforma.online/wp-content/uploads/2021/09/Kate.mp4
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/lNRdCfVcjLs2LhO1Vb5rgnHV4JW.jpg"group-title="MEGA FILMES " LIGA DA JUSTICA
+https://suasaudeemforma.online/wp-content/uploads/2021/10/Injustice.mp4
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/oOiqpWM5id30m7Z5Zuo5cJlwKfV.jpg"group-title="MEGA FILMES" Invasão Cósmica
+https://suasaudeemforma.online/wp-content/uploads/2021/09/Invasao-Cosmica.mp4
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/kPry1BAfJtYNyQEpKdV4cYan6MB.jpg"group-title="MEGA FILMES " A lenda do lobo
+https://suasaudeemforma.online/wp-content/uploads/2021/09/The.WitcherDub.mp4
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/6T0r3jBs0xbmzVnM9u7e3vUXMYk.jpg"group-title=" MEGA FILMES " A LENDA DOS 10 ANES
+https://suasaudeemforma.online/wp-content/uploads/2021/09/Shang-Chi-e-a-Lenda-dos-Dez-AneisCam.mp4
