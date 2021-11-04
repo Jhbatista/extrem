@@ -163,3 +163,7 @@ https://suasaudeemforma.online/wp-content/uploads/2021/08/Beckett-2021-WEB-DL-10
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/iT9k4FyhjLcfMRH8Qzk3wR99pDC.jpg"group-title=" MEGA FILMES " O ULTIMO MECENARIO
 https://suasaudeemforma.online/wp-content/uploads/2021/07/OUltimoMercenario.mp4
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://tyflex.site/wp-content/uploads/2021/09/globo-ao-vivo-megafilmeshd.jpg"group-title=" TV " GLOBO
+https://s4.tyflexplus.site/playlist/?url=Rjl0TEMrWlVrbGNtd1dOWjVKMGduNVA2a1VJeGoxdEIyUE5wYTVSeUxCNUlmSXFlMjVVSk5hYkx5Z1hscE56RmVuMnNNN1lSNW9WdFJnSjVwODhwVStFaEFnbnIrS216SUsrS0lGY283RWIwQTNObzRvUEZnRFJ3cDd4bjZGS21IbWpvOHhqRDAzUnJmdzRzTnBON253PT06Ordi2qoxyfYoX9yzOCd83Og%3D&ref=SGxNSHcvQ2dqRTYydC85Wmt2ZjVtYVAwN0hVMW5qOW16dG5Zb2lVc0c2RT06OiZ3%2FLXeVSc2IXyqPGFLBYc%3D
