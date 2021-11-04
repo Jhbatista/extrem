@@ -110,3 +110,7 @@ https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1418908987.m3u
 
 #EXTINF:-1 tvg-logo="  https://1.bp.blogspot.com/-RS8CHfEdekU/YTD_EgAvvjI/AAAAAAAAFTQ/RwfgAUQLwnMQgUWEDhRisWC3qEAS_YcngCLcBGAsYHQ/s200/CLASSIQUE%2BTV.webp"group-title=" Classique tv" séries filmes
 https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xF1uc2pEf34X2G41wvZaF5H0V7C.jpg"group-title="MEGA FILMES " SOBRE VIVER O JOGO
+https://suasaudeemforma.online/wp-content/uploads/2021/10/Sobreviva-ao-Jogo-1.mp4
