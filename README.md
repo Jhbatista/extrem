@@ -93,7 +93,7 @@ https://bit.ly/3EBbNfQ
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=" https://1.bp.blogspot.com/-JiR4ABc875Q/YTD7prSgoiI/AAAAAAAAFSU/bfEEnuhiArk5mv1_dUnnja0aqmHNxQBbACLcBGAsYHQ/s200/TELA%2BVIVA%2BTV.webp "group-title="TELA VIVA " TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JiR4ABc875Q/YTD7prSgoiI/AAAAAAAAFSU/bfEEnuhiArk5mv1_dUnnja0aqmHNxQBbACLcBGAsYHQ/s200/TELA%2BVIVA%2BTV.webp "group-title="TELA VIVA " TV
 https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w1508014130.m3u8
 
 #EXTM3U
@@ -101,14 +101,14 @@ https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w1508014130.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FmsNFIuq7rg/YTeYPQEDhOI/AAAAAAAAFdE/V-elpW38cB0_20fbai4DQLOnE4nzYXVIACLcBGAsYHQ/s200/WEB%2BTV%2B%25C3%2581GUA%2BBOA.webp"group-title="WEB TV " AGUA BOA
 https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/chunklist_w292458495.m3u8
 
-#EXTM3U
+#EXTM3Uo
 
-#EXTINF:-1 tvg-logo=" https://1.bp.blogspot.com/-qO7V5fgqGFY/YTD7QzFbj0I/AAAAAAAAFSI/i3qfOlT2P5sdyYOyrMlARFJXXUpXzNmjACLcBGAsYHQ/s200/REDE%2BCLONE%2BTV.webp"group-title=" TV " CICLONE
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qO7V5fgqGFY/YTD7QzFbj0I/AAAAAAAAFSI/i3qfOlT2P5sdyYOyrMlARFJXXUpXzNmjACLcBGAsYHQ/s200/REDE%2BCLONE%2BTV.webp"group-title=" TV CLUB " CICLONE
 https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1418908987.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="  https://1.bp.blogspot.com/-RS8CHfEdekU/YTD_EgAvvjI/AAAAAAAAFTQ/RwfgAUQLwnMQgUWEDhRisWC3qEAS_YcngCLcBGAsYHQ/s200/CLASSIQUE%2BTV.webp"group-title=" Classique tv" séries filmes
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RS8CHfEdekU/YTD_EgAvvjI/AAAAAAAAFTQ/RwfgAUQLwnMQgUWEDhRisWC3qEAS_YcngCLcBGAsYHQ/s200/CLASSIQUE%2BTV.webp"group-title=" Classique tv" séries filmes
 https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
 #EXTM3U
 
