@@ -172,3 +172,52 @@ https://content-asae1-up-2.uplynk.com/channel/9f7a5e9ec43f42ba87bce6a3ee976973/e
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_kF9szq5SLhAmHEa9jDJTXp7cyaGTkXqtQ&usqp=CAU"group-title="ESPORTE TV " JOGOS
 https://skylivedash.akamaized.net/dash_live_11/dash/11_ESPN-video=464800-272428525.m4s
 
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dSFaiG2xgwq2Z0ceUXPyfxnITC8.jpg"group-title="MEGA FILMES"ESPIRIT O INDOMAVEL
+https://cloud1.userscloud.com/d/gilraxl3tn2fvxijndjynfcall7njtuulydcmk7x3exc6yntj6az5xrqpqp43dainvdtl2ri/video.mp4
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/7bdNPv3vsLXhUTrVhweTSGiqEwp.jpg"group-title="MEGA FILMES" jovens titan
+https://cloud0.userscloud.com/d/gelxdrl2tn2fvxijptjz3eccknqixp5smrg2fk26azdls272dc3uqnvlsmb6wj4ydllv6w4n/video.mp4
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/vtX3wirmv2VkQi1u4C9cSdHTXQn.jpg"group-title="MEGA FILMES"O REI LEAO 3 HAKUNA MATATA
+https://cloud2.userscloud.com/d/gmlx4u3xtn2fvxiju7oi3c2nb7xfv2bnj4bjihetrut2arukd2vtzm3pa22mcc3wvpimwogb/video.mp4
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/stYOdg6kFi9jl9aGLeh9vLSPiFU.jpg"group-title="MEGA FILMES"Aft3 depois do desencontro
+https://cloud0.userscloud.com/d/gelqng33tn2fvxijn7j4tucsb7qbtsj4hjlwcn362mx77a6afel37kgzlqim4k4psj6t7q23/video.mp4
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/czVBkHRaZu8rOnCNTd0t7EHYj97.jpg"group-title="MEGA FILME"O TEMPO
+https://cloud2.userscloud.com/d/gmlr22dxtn2fvxiju7ompviebxd6op4slrxjcjif742jrfwgwskazryp3lpaxkpnlvqrlnjj/video.mp4
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/fRmHwuL2dAwDIdhyEFzCYPbbhQW.jpg"group-title="MEGA FILMES" APOCALIPSE
+https://cloud2.userscloud.com/d/gmlvou3xtn2fvxiju7oive27dm3toxebhj6ooyjbsw3nwqywztkcdyqde3bcxhvzy7myltel/video.mp4
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/63O5iixxXSmyOaBas7ek1tkeVra.jpg"group-title="MEGA FILMES"HOMEN ARANHA 3
+https://cloud2.userscloud.com/d/gml7gx3xtn2fvxiju7oitb2tdyxbszaysn6q2h43hardc4hzv36z4nvku4iv6bj5g5ozuali/video.mp4
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/jkaLHoFk6dmTHZNW17FmeybZsdf.jpg"group-title="MEGA FILMES"RESIDENTE EVIL 6
+https://cloud2.userscloud.com/d/gmlxeu3xtn2fvxiju7omrgcpauxd5v2lvepzuh4s3zlqsb6q2um7snz2mdgxzadtg6y3bk4z/video.mp4
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/lXMZPBQ87OwAzEU15Fjix4fkpF8.jpg"group-title="MEGA FILMES"Wolf pack
+https://3652628002.tapecontent.net/radosgw/KgKyeM12QKh0Z3p/6nhAinWTEjdnsW4qoZh0tpBoHYW5-_fZ9H87ChWgTu3CCqOO13rBCxc9oqbEmdW_r55N7hMo6vwQEvx1jQvwoN-ArOluYC1063sgQ9g9mAy75RjgxnK6hnQXLxfoiJY0fhPU3kc0JHerioNCiBsA4hy7RVHYoa0DRux8kJ1YI3KE6BWnHTi1kJEbFqkBXtxRxR1h2zuX9MzjtGI5yM_kkch9R0IMJnI8G-X7ppUBHL_JuzUqDWWU6vZmk_PAcCxTy1U0IotnTlyf6gRh7b0E2yUOQYCewE8vBDHtHQLyw_cOM01JfpWWLeT4Mv0/UmMatch.Surpresa.2021.Dub.Filmesmp4.com.mp4?stream=1
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/iCVLDTGFJXSPtdMmdbVnmfJ3wPQ.jpg"group-title="MEGA FILMES"APEX
+https://861619395.tapecontent.net/radosgw/O161VAORDzcZrGa/wuBQ-zuR31MgJyBhpm-UW7zCk1UByItrj_NRRcPIv-OXd3ZUtTN5dYP6qtZbUczT9vDN73SN-oKmBiNhAkz5X6zaFE3sZwaXlolSlq10xaBKlZzD3F_ofI3Xq8gvBsbxjtFp6P54rFfIJCcksmaurSDr2hHjYXxRw6dWT4i6PYhqKnd97lwMjo4E-Ck0PYUfdfN43Qe8N2tC6TGVaCOOQyC-56WhZPdPmlPdiPDD9I9Kz8utWRk_-qI07G7aLR1BDNkn5Nv006O33bA1ymwMjbhZLvrXFe8qty07zg/Apex.2021.Dub.Filmesmp4.com.mp4?stream=1
