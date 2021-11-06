@@ -249,3 +249,12 @@ https://cloud0.userscloud.com/d/gel4agl2tn2fvxijm3jyzekolzmky7sjxyhs2py3tjncwtk3
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ypPh0GKzLIP9vyO8eFmu4jCzkHi.jpg"group-title="MEGA FILMES "CAÇADPRES DE  trolls. 
 https://cloud0.userscloud.com/d/gel43rt2tn2fvxijptj4vucuaalvi72ojbjjjxk7qb6p5ltgarz524madzvcxoor7hxbllls/video.mp4
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9d7d1a4b47e3583e7c715cafee8cbd02.webp"group-title="TV JORNAL"NOTICIA
+https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w460017687.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9fffa9770a0e7d7bc0db38ea00abd7a0.webp"group-title="TV DIARIO" NOTCIA
+https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZdsGG-imzn5obdn20ODp8G0)/dm/3/x7txn7q/s/live-4.m3u8#cell=lnyc
