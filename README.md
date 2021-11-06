@@ -169,8 +169,6 @@ https://suasaudeemforma.online/wp-content/uploads/2021/07/OUltimoMercenario.mp4
 https://content-asae1-up-2.uplynk.com/channel/9f7a5e9ec43f42ba87bce6a3ee976973/e.m3u8?exp=1636204275&ct=c&cid=9f7a5e9ec43f42ba87bce6a3ee976973&expand=drmOff&iph=19180c7f24cb62bb0c64da1bb4ba5a461138d441dbf830e8feff4624a7773a11&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=ac559179d7bbbf681cb494f4e75d91d328bac29c01f6bbd5c4960091bf8ac64d&pbs=449fc53b8e164cd7bd132c7261bd3f92
 #EXTM3U
 
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_kF9szq5SLhAmHEa9jDJTXp7cyaGTkXqtQ&usqp=CAU"group-title="ESPORTE TV " JOGOS
 https://skylivedash.akamaized.net/dash_live_11/dash/11_ESPN-video=464800-272428525.m4s
 
