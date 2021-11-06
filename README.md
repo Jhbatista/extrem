@@ -165,5 +165,5 @@ https://suasaudeemforma.online/wp-content/uploads/2021/08/Beckett-2021-WEB-DL-10
 https://suasaudeemforma.online/wp-content/uploads/2021/07/OUltimoMercenario.mp4
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxXGyXk6B7Ir5QvGGoJ6wK1AVMvdt6bcb3VQ&usqp=CAU"group-title="TV Star " STAR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxXGyXk6B7Ir5QvGGoJ6wK1AVMvdt6bcb3VQ&usqp=CAU"group-title="TV Star"STAR
 https://content-asae1-up-1.uplynk.com/channel/9f7a5e9ec43f42ba87bce6a3ee976973/e.m3u8?exp=1636164650&ct=c&cid=9f7a5e9ec43f42ba87bce6a3ee976973&expand=drmOff&iph=19180c7f24cb62bb0c64da1bb4ba5a461138d441dbf830e8feff4624a7773a11&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=861de330d42227036e9d44fff369d9df3ab92a051b5809f9cdb6300f2d333d50&pbs=ffc24192116a4c4da037799e1a4b214b
