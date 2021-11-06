@@ -214,3 +214,38 @@ https://3652628002.tapecontent.net/radosgw/KgKyeM12QKh0Z3p/6nhAinWTEjdnsW4qoZh0t
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/iCVLDTGFJXSPtdMmdbVnmfJ3wPQ.jpg"group-title="MEGA FILMES"APEX
 https://861619395.tapecontent.net/radosgw/O161VAORDzcZrGa/wuBQ-zuR31MgJyBhpm-UW7zCk1UByItrj_NRRcPIv-OXd3ZUtTN5dYP6qtZbUczT9vDN73SN-oKmBiNhAkz5X6zaFE3sZwaXlolSlq10xaBKlZzD3F_ofI3Xq8gvBsbxjtFp6P54rFfIJCcksmaurSDr2hHjYXxRw6dWT4i6PYhqKnd97lwMjo4E-Ck0PYUfdfN43Qe8N2tC6TGVaCOOQyC-56WhZPdPmlPdiPDD9I9Kz8utWRk_-qI07G7aLR1BDNkn5Nv006O33bA1ymwMjbhZLvrXFe8qty07zg/Apex.2021.Dub.Filmesmp4.com.mp4?stream=1
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/pxdSJCpqMOp3gakScrzHgGDEvVr.jpg"group-title="MEGA filmes"Pede O coelho 2
+https://cloud0.userscloud.com/d/gel7irl5tn2fvxijo3jz3gc4cb4psziyi35d2ncivo4nwncmkyeryh23xjvgf3y3uypmk2eq/video.mp4
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/rShV4uPtjxy3T9OmblG1APJHGIj.jpg"group-title="MEGA filmes"Major Grom
+https://cloud0.userscloud.com/d/gelrg7d6tn2fvxijfpjzpu2yatsthckzjuhsdjosgkanztnqnezli37h356slej6ogtywag5/video.mp4
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/t7cPk3hTF3X8IMZr0hPAG0cVLTI.jpg"group-title="MEGA FILMES" Miraculos wod
+https://cloud0.userscloud.com/d/geluill2tn2fvxijmhjzxcioldffqshiv5pclha3qszos4nfdtdkip24b5kfautj75et7ths/video.mp4
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/wTS3dS2DJiMFFgqKDz5fxMTri.jpg"group-title="MEGA filmes" esquadrão suicida 2
+https://cloud0.userscloud.com/d/geluond5tn2fvxijptj45e2qknpja2erkyhfs5zww232e3jzdqitiwasq7wmwsxhyc6si6ov/video.mp4
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/eVcQ5fk2HEZJk2guPVYTxSmP0dX.jpg"group-title="MEGA FILMES"A grande muralha
+https://cloud1.userscloud.com/d/gil6gmqbtn2fvxijehjy7asqawbtrvcf6kn66kjj6sllra3d4zfo32lhjyrelpbkdkphs7uj/video.mp4
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/qhMv2uDyraW3s9t30FFfkauDyI9.jpg"group-title="MEGA FILMES"Luccas Neto em: Mapa do tesouro 2
+https://cloud0.userscloud.com/d/gel4agl2tn2fvxijm3jyzekolzmky7sjxyhs2py3tjncwtk3yn7tt4u3fnaqi5zcsycctvhm/video.mp4
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ypPh0GKzLIP9vyO8eFmu4jCzkHi.jpg"group-title="MEGA FILMES "CAÇADPRES DE  trolls. 
+https://cloud0.userscloud.com/d/gel43rt2tn2fvxijptj4vucuaalvi72ojbjjjxk7qb6p5ltgarz524madzvcxoor7hxbllls/video.mp4
