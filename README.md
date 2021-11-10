@@ -1,4 +1,4 @@
-A#EXTMEU
+#EXTMEU
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3b32d867946790567052cc9e2a4ce617.webp"grupo-title="",
 https://stmv5.samcast.com.br/everton7487/everton7487/chunklist_w561956150.m3u8
@@ -67,18 +67,22 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1678229
 
 #EXTINF:-1 tvg-logo="https://www.tvaberta.tv.br/_img/logo-tv-aberta.gif"group-title="TV ABERTA" SAO PAILO
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/chunklist_w1451369611.m3u8
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8WMTK1YKO8M/YTDut9kuv0I/AAAAAAAAFQI/tPhnPo5AysQHiA5kFzTdvxD8wBfvgnLSQCLcBGAsYHQ/s200/TV%2BBAND.webp"group-title=" TV BANDE" NOTICIA
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2041741271.m3u8
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oxdCoblnnJg/YTDkXEX3igI/AAAAAAAAFPk/XqnzIaBL9q08kr8U1vVqxLRqWqggiEWhgCPcBGAYYCw/s200/RECORD%2BTV.webp"group-title=" TV rede recor"  são paulo
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--JMxVkeukr4/YTTqN-S05iI/AAAAAAAAFY8/1kP57M8lrhsozQ40lucklTmfjLPeJbCvQCLcBGAsYHQ/s200/TV%2BNOVA%2BPLAY.webp"group-title=" NOVA PLAY TV" FILMES E SERIES
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1739392633.m3u8
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.tvaberta.tv.br/_img/logo-tv-aberta.gif"group-title="TV ABERTA" SAO PAILO
@@ -88,8 +92,6 @@ https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/chunklist_w14513696
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--JMxVkeukr4/YTTqN-S05iI/AAAAAAAAFY8/1kP57M8lrhsozQ40lucklTmfjLPeJbCvQCLcBGAsYHQ/s200/TV%2BNOVA%2BPLAY.webp"group-title=" NOVA PLAY TV" FILMES E SERIES
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1739392633.m3u8
-
-https://bit.ly/3EBbNfQ
 
 #EXTM3U
 
@@ -101,7 +103,7 @@ https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w1508014130.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FmsNFIuq7rg/YTeYPQEDhOI/AAAAAAAAFdE/V-elpW38cB0_20fbai4DQLOnE4nzYXVIACLcBGAsYHQ/s200/WEB%2BTV%2B%25C3%2581GUA%2BBOA.webp"group-title="WEB TV " AGUA BOA
 https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/chunklist_w292458495.m3u8
 
-#EXTM3Uo
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qO7V5fgqGFY/YTD7QzFbj0I/AAAAAAAAFSI/i3qfOlT2P5sdyYOyrMlARFJXXUpXzNmjACLcBGAsYHQ/s200/REDE%2BCLONE%2BTV.webp"group-title=" TV CLUB " CICLONE
 https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1418908987.m3u8
@@ -110,12 +112,17 @@ https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1418908987.m3u
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RS8CHfEdekU/YTD_EgAvvjI/AAAAAAAAFTQ/RwfgAUQLwnMQgUWEDhRisWC3qEAS_YcngCLcBGAsYHQ/s200/CLASSIQUE%2BTV.webp"group-title=" Classique tv" séries filmes
 https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xF1uc2pEf34X2G41wvZaF5H0V7C.jpg"group-title="MEGA FILMES " SOBRE VIVER O JOGO
 https://suasaudeemforma.online/wp-content/uploads/2021/10/Sobreviva-ao-Jogo-1.mp4
+
+#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/s9E9W77HS8zEQvsrpz5aEUTKnvD.jpg"group-title=" MEGA FILMES" DUNA Além do medo
 https://suasaudeemforma.online/wp-content/uploads/2021/10/Duna.mp4
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/uQWgSRXeYRWCvGIX9LDNBW6XBYD.jpg "group-title="MEGA FILMES " KATE
@@ -140,7 +147,9 @@ https://suasaudeemforma.online/wp-content/uploads/2021/09/The.WitcherDub.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/6T0r3jBs0xbmzVnM9u7e3vUXMYk.jpg"group-title=" MEGA FILMES " A LENDA DOS 10 ANES
 https://suasaudeemforma.online/wp-content/uploads/2021/09/Shang-Chi-e-a-Lenda-dos-Dez-AneisCam.mp4
+
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/nH0EycssY8aFJxElTsGSRirP9qr.jpg"group-title="MEGA FILMES" PEspanha contra animal
 https://suasaudeemforma.online/wp-content/uploads/2021/10/Baixar-Contra-Animal.mp4
 
@@ -163,7 +172,6 @@ https://suasaudeemforma.online/wp-content/uploads/2021/08/Beckett-2021-WEB-DL-10
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/iT9k4FyhjLcfMRH8Qzk3wR99pDC.jpg"group-title=" MEGA FILMES " O ULTIMO MECENARIO
 https://suasaudeemforma.online/wp-content/uploads/2021/07/OUltimoMercenario.mp4
-#
 
 #EXTM3U
 
@@ -214,6 +222,7 @@ https://3652628002.tapecontent.net/radosgw/KgKyeM12QKh0Z3p/6nhAinWTEjdnsW4qoZh0t
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/iCVLDTGFJXSPtdMmdbVnmfJ3wPQ.jpg"group-title="MEGA FILMES"APEX
 https://861619395.tapecontent.net/radosgw/O161VAORDzcZrGa/wuBQ-zuR31MgJyBhpm-UW7zCk1UByItrj_NRRcPIv-OXd3ZUtTN5dYP6qtZbUczT9vDN73SN-oKmBiNhAkz5X6zaFE3sZwaXlolSlq10xaBKlZzD3F_ofI3Xq8gvBsbxjtFp6P54rFfIJCcksmaurSDr2hHjYXxRw6dWT4i6PYhqKnd97lwMjo4E-Ck0PYUfdfN43Qe8N2tC6TGVaCOOQyC-56WhZPdPmlPdiPDD9I9Kz8utWRk_-qI07G7aLR1BDNkn5Nv006O33bA1ymwMjbhZLvrXFe8qty07zg/Apex.2021.Dub.Filmesmp4.com.mp4?stream=1
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/pxdSJCpqMOp3gakScrzHgGDEvVr.jpg"group-title="MEGA filmes"Pede O coelho 2
@@ -249,6 +258,7 @@ https://cloud0.userscloud.com/d/gel4agl2tn2fvxijm3jyzekolzmky7sjxyhs2py3tjncwtk3
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ypPh0GKzLIP9vyO8eFmu4jCzkHi.jpg"group-title="MEGA FILMES "CAÇADPRES DE  trolls. 
 https://cloud0.userscloud.com/d/gel43rt2tn2fvxijptj4vucuaalvi72ojbjjjxk7qb6p5ltgarz524madzvcxoor7hxbllls/video.mp4
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9d7d1a4b47e3583e7c715cafee8cbd02.webp"group-title="TV JORNAL"NOTICIA
