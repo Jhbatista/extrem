@@ -268,3 +268,7 @@ https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9fffa9770a0e7d7bc0db38ea00abd7a0.webp"group-title="TV DIARIO" NOTCIA
 https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZdsGG-imzn5obdn20ODp8G0)/dm/3/x7txn7q/s/live-4.m3u8#cell=lnyc
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/948916b3cd4e9c10e59cf2e76fb4d1a9.webp"group-title="RADIO TV"SHOW DE BOLA
+https://videodj.fm5.com.br:19360/showdebola/showdebola.m3u8
