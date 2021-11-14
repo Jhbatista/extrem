@@ -126,3 +126,7 @@ https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZdsGG-imzn5obdn20O
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/948916b3cd4e9c10e59cf2e76fb4d1a9.webp"group-title="RADIO TV"SHOW DE BOLA
 https://videodj.fm5.com.br:19360/showdebola/showdebola.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/07aef32e158a66e582cbe8deb7de40a8.webp"group-title="TV "ASSOCIAÇÃO
+https://stmv1.srvif.com/adqstv/adqstv/chunklist_w2025591882.m3u8
