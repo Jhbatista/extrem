@@ -130,3 +130,16 @@ https://videodj.fm5.com.br:19360/showdebola/showdebola.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/07aef32e158a66e582cbe8deb7de40a8.webp"group-title="TV "ASSOCIAÇÃO
 https://stmv1.srvif.com/adqstv/adqstv/chunklist_w2025591882.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp"group-title="TV SBT"NOTICIA
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist_w595064250.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7b5fef447f62d556b33598a4abcfbf60.webp"group-title="TV RUAL"AGROPECUÁRIA
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist_w2110535746_b2596000_sleng.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2307ec9d5751b3152f8cb9db472414cd.webp"group-title="TV RURAL" AGRICULTURA
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1233859516.m3u8
