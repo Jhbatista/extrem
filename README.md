@@ -146,3 +146,7 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist_w211053
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2307ec9d5751b3152f8cb9db472414cd.webp"group-title="TV RURAL" AGRICULTURA
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1233859516.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3c5d7d435d935a3353fd64265c25abe9.webp"group-title="TV NACENTE" EVANGRLIZADORA
+https://cloudflare.streamgato.us:3399/live/luznacientetvlive.m3u8
