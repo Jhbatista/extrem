@@ -150,3 +150,15 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1233859516.m3u
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3c5d7d435d935a3353fd64265c25abe9.webp"group-title="TV NACENTE" EVANGRLIZADORA
 https://cloudflare.streamgato.us:3399/live/luznacientetvlive.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b84ae6f6ff53d9b0b6fd9d888fa68025.webp"group-title="TV" esperança
+https://stmv1.voxtvhd.com.br/radioesperanca/radioesperanca/chunklist_w1711779864.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/041a53eb1b2c6c9d65151c102342544b.webp"group-title="TV"CULTURA
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLu3MIBJTp3049Soe1JoEiYc)/dm/3/x82pp99/d/live-2.m3u8#cell=lnyc
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/301f06c166156f3e5234ee0b6231b9a0.webp"group-title="TV REDEBUUL"ESPORT 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
