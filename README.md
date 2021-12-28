@@ -184,3 +184,5 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5f120e94a5
 
 #EXTINF:-1 tvg-logo=".https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85e5f6b6aa459a384730e3b520e1e728.webp"group-title="TV REDE VIDA"REDE EVANGELIZADORA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcWNqEGEERg0IL98Z7dItSenZHtPSrrlrujA&usqp=CAU" "group-title="TV KIDS"DESENHOS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
