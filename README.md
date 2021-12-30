@@ -1,4 +1,4 @@
-#EXTMEU
+Se#EXTMEU
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3b32d867946790567052cc9e2a4ce617.webp"grupo-title="",
 https://stmv5.samcast.com.br/everton7487/everton7487/chunklist_w561956150.m3u8
@@ -208,4 +208,8 @@ https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8-X6wQg2xlnu_icflgxZer4qw209zvjX85Q&usqp=CAU "group-title="TV DESENHOS"VIDA DE ROCK
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8-X6wQg2xlnu_icflgxZer4qw209zvjX85Q&usqp=CAU "group-title="TV DESENHOS" VIDA DE ROCK
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
