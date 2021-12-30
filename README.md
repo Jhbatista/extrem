@@ -204,3 +204,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e100070173
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzX5Vj0h4tFLWZ_o70utyMgyJRtQ2kBdX7Mg&usqp=CAU"group-title="TV BAND "NOTICIA"
 https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8-X6wQg2xlnu_icflgxZer4qw209zvjX85Q&usqp=CAU "group-title="TV DESENHOS"VIDA DE ROCK
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
