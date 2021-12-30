@@ -231,3 +231,31 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzvdYJgA6Sk44qi65df3pAUdoe5v761qHhMQ&usqp=CAU"group-title="TV ANIMES" AS AVENTURAS DE JHEK JAN
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3JYKSeccpHtEr1i04gLR8FSrkmu4Okzhptw&usqp=CAU "group-title="TV JUNDIAI"25 CANAL
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1441027810085285888/cxRFMlIK_400x400.jpg "group-title="TV NOTICIA" CANL METROPOLITANO
+http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZE0bxOrgZVjQDI7mSltO1l6e222VtY-qibg&usqp=CAU "group-title="TV MAX"SERIES
+https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHj03wcmgVmb-AjA7ab8RNPH48PYsqc5M6-Q&usqp=CAU "group-title="TNT"ESPORT
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCJuZLFNBQ2IlnPecDGhKGcooNGq0yHZwg3A&usqp=CAU "group-title="TV rede vida "evangelisa
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3tHITaVs2CSzXJs_bIGQfwjsRLe7ByZA2CA&usqp=CAU "group-title="TV REDE RECORD "
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
